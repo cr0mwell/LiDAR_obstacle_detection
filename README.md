@@ -45,7 +45,7 @@ as the one installed with apt gives segmentation error. For Mac users:
 2. Execute the following commands in a terminal
 
    ```shell
-   cd ~/SFND_Lidar_Obstacle_Detection
+   cd ~/Lidar_Obstacle_Detection
    mkdir build && cd build
    cmake ..
    make
@@ -83,7 +83,7 @@ as the one installed with apt gives segmentation error. For Mac users:
 7. Execute the following commands in a terminal
 
    ```shell
-   cd ~/SFND_Lidar_Obstacle_Detection
+   cd ~/Lidar_Obstacle_Detection
    mkdir build && cd build
    cmake ..
    make
